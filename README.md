@@ -1,2 +1,2 @@
-# Python-data-analysis-android-app
+# Python-data-analysis app
 Beginner friendly with more features
